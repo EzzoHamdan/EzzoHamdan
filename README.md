@@ -7,7 +7,7 @@ I'm all about coding during the day and putting it into action at night. I sprin
 
 - 🔭 I’m currently working on my first react project.
 - 🌱 I’m currently learning TailwindCSS.
-- 🌟 Have you ever come across a flamboyance? It's when you stumble upon a group of flamingos hanging out, Pretty fancy word, right?!
+- 🌟 Have you ever come across a flamboyance? It's when you stumble upon a group of flamingos hanging out, Pretty fancy, right?!
 - ✨ Wanna chat? Feel free to hit me up! I'm always ready for new opportunities, connections, or just making new friends!
 
 <p><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzohamdan&theme=dark" alt="ezzohamdan" /> <br/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzohamdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="ezzohamdan" /></p>
