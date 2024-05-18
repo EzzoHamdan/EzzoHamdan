@@ -10,6 +10,4 @@ I'm all about coding during the day and putting it into action at night. I sprin
 - 🌟 Have you ever come across a flamboyance? It's when you stumble upon a group of flamingos hanging out, pretty fancy, right?!
 - ✨ Wanna chat? Feel free to hit me up! Whether it's about coding, sharing Netflix recommendations, or discussing the latest anime, I'm all ears. Let's connect and see where it takes us!
 
-P.S. If you want to use any of my CSS, checkout my uiverse.io profile for source code.
-
 <p><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzohamdan&theme=dark" alt="ezzohamdan" /> <br/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzohamdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="ezzohamdan" /></p>
