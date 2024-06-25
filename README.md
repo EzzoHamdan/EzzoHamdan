@@ -3,7 +3,7 @@
 
 <hr/>
 
-I'm all about coding during the day and putting it into action at night. I sprinkle in a bit of netflix and anime to unwind. Oh, if you've got a sec, check out the [portfolio](https://ezzohamdan.github.io/Project-9) I whipped up in my spare time. I'll be grateful, really!
+I'm all about coding during the day and putting it into action at night. I sprinkle in a bit of netflix to unwind. Oh, if you've got a sec, check out the [portfolio](https://ezzohamdan.github.io/Project-9) I whipped up in my spare time. I'll be grateful, really!
 
 - 🔭 I’m currently working on a CSS preprocessor that probably no one would use lol.
 - 🌱 I’m currently learning TailwindCSS.
