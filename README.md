@@ -5,8 +5,11 @@
 
 I'm all about coding during the day and putting it into action at night. I sprinkle in a bit of netflix to unwind. Oh, if you've got a sec, check out the [portfolio](https://ezzohamdan.github.io/Project-9) I whipped up in my spare time. I'll be grateful, really!
 
+On January 1-2, 2025, I was thrilled to deploy two of my projects on Vercel. Check out [BasicTodoApp](https://react-basic-todo-list-app.vercel.app/) & [DailyEcho](https://dailyecho.vercel.app/)!
+
 - 🌱 I’m currently learning more about APIs.
-- 🔭 Recently, I co-founded UniArchives with two colleagues and I am giving it most of my time and knowledge.
+- 🏆 Recently, I achieved a huge milestone with [DailyEcho](https://github.com/EzzoHamdan/DailyEcho).
+- 🔭 I co-founded UniArchives with two colleagues and I am giving it most of my time and knowledge.
 - 🌟 Have you ever come across a flamboyance? It's when you stumble upon a group of flamingos hanging out, pretty fancy, huh?!
 - ✨ Wanna chat? Feel free to hit me up! Whether it's about coding, sharing Netflix recommendations, or discussing the latest trends, I'm all ears. Let's connect and see where it takes us!
 <p><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzohamdan&theme=dark" alt="ezzohamdan" /> <br/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzohamdan&show_icons=true&theme=dark&locale=en&layout=compact" alt="ezzohamdan" /></p>
