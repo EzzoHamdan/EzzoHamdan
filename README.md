@@ -11,7 +11,7 @@ On January 1-2, 2025, I was thrilled to deploy two of my projects on Vercel. Che
 - 🌟 Have you ever come across a flamboyance? It's when you stumble upon a group of flamingos hanging out, pretty fancy, huh?!
 - ✨ Wanna chat? Feel free to hit me up! Whether it's about coding, sharing Netflix recommendations, or discussing the latest trends, I'm all ears. Let's connect and see where it takes us!
 
-<img align="left" src="https://streak-stats.demolab.com?user=EzzoHamdan&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=215" alt="ezzohamdan streak-stats" />
+<img align="left" src="https://streak-stats.demolab.com?user=EzzoHamdan&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=470&card_height=215" alt="ezzohamdan streak-stats" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzohamdan&show_icons=true&theme=dark&locale=en&layout=donut" alt="ezzohamdan top-langs" />
 
 
