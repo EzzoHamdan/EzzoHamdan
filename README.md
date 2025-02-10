@@ -7,7 +7,11 @@ On January 1-2, 2025, I was thrilled to deploy two of my projects on Vercel. Che
 
 - 🌱 I’m currently learning more about Machine Learning.
 - 🏆 Recently, I achieved a huge milestone with my graduation project: [Uni-Archives](https://github.com/Uni-Archives/Uni-Archives).
-- 🔭 I co-founded UniArchives with two colleagues and I am giving it most of my time and knowledge.
+- 🔭 I founded a startup called Classroom of One and I am giving it most of my time and knowledge.
 - 🌟 Have you ever come across a flamboyance? It's when you stumble upon a group of flamingos hanging out, pretty fancy, huh?!
 - ✨ Wanna chat? Feel free to hit me up! Whether it's about coding, sharing Netflix recommendations, or discussing the latest trends, I'm all ears. Let's connect and see where it takes us!
-<p><br/><img align="left" src="https://streak-stats.demolab.com?user=EzzoHamdan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="ezzohamdan" /> <br/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzohamdan&show_icons=true&theme=dark&locale=en&layout=donut" alt="ezzohamdan" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img align="left" src="https://streak-stats.demolab.com?user=EzzoHamdan&theme=dark&date_format=j%20M%5B%20Y%5D&card_height=215" alt="ezzohamdan streak-stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezzohamdan&show_icons=true&theme=dark&locale=en&layout=donut" alt="ezzohamdan top-langs" />
+</div>
+
